@@ -4,12 +4,16 @@ layout: main
 
 {% for post in site.posts %}
 <div class="blog-post">
-	<h2>
+	<h1>
 		{{ post.title }}
-	</h2>
-	<p>
-		{{ post.content }}
-	</p>
+	</h1>
+	
+    {{ post.content | truncatewords: 80 }}
+
+    <div>
+        <a href="{{page.url}}">Read full post</a>
+    </div>
 </div>
 <hr />
 {% endfor %}
+

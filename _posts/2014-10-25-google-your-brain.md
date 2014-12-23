@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: post
 title: google your brain
 ---
 Last year I attended the yearly <a href="http://thewcdc.net/">warm crocodile developer conference</a>, where I enjoyed a talk by <a href="http://www.hanselman.com/">Scott Hanselman</a>. He showcased some new Azure manage and deployment tools. Whatever.
