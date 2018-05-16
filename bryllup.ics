@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+UID:bryllup-anna-morten
+DTSTAMP:20180407T183212Z
+DTSTART;VALUE=DATE:20190907
+DTEND;VALUE=DATE:20190909
+SUMMARY:Anna & Mortens bryllup
+LOCATION:Et sted i storkøbenhavn
+DESCRIPTION:Mere info følger...\n\nFølg med på http://hulleoganna.dk
+END:VEVENT
+END:VCALENDAR
